@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exclames of Rhodopæa to the lamentable death of the most noble Marquess of Montrose together with a reflection to his most honourable exequies in the great church of Edinburgh / written formerly, and now published at his honourable interment.</title>
+            <author>J. M. O.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53889</idno>
+            <idno type="STC">Wing O9B</idno>
+            <idno type="STC">ESTC R41378</idno>
+            <idno type="EEBO-CITATION">31355225</idno>
+            <idno type="OCLC">ocm 31355225</idno>
+            <idno type="VID">110354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exclames of Rhodopæa to the lamentable death of the most noble Marquess of Montrose together with a reflection to his most honourable exequies in the great church of Edinburgh / written formerly, and now published at his honourable interment.</title>
+                  <author>J. M. O.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>Printed in the Year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signed at end: J.M.O.</note>
+                  <note>Place of publication suggested by WIng (2nd ed.)</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110354:1" rendition="simple:additions"/>
+            <p>THE EXCLAMES OF RHODOPÆA.</p>
+            <p>To the lamentable Death of the moſt Noble Marqueſs of <hi>MONTROSE.</hi>
+            </p>
+            <p>Together with a reflection to his moſt Honourable Exequies in the great Church of <hi>EDINB<g ref="char:V">Ʋ</g>RGH.</hi>
+            </p>
+            <p>Writtten formerly, and now publiſhed at his Honourable Interment.</p>
+            <p>Printed in the Year, 1661.</p>
+            <pb facs="tcp:110354:2"/>
+            <pb facs="tcp:110354:2" rendition="simple:additions"/>
+            <pb facs="tcp:110354:3" rendition="simple:additions"/>
+            <pb facs="tcp:110354:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="text">
+            <pb facs="tcp:110354:4"/>
+            <p>AS the bringing in of <hi>Cromwel,</hi> after his Victory over our ſelves, into the Caſtle of <hi>Edinburgh;</hi> and ſhewing him all our great things, looked like the reception of the Ambaſſadors of <hi>Babell</hi> in. <hi>Jeruſalem:</hi> ſo therein was prefigured his ſhameleſſe Victory over that place which followed. And to that purpoſe then, (not with<g ref="char:EOLhyphen"/>out mine own pathetic,) and in this ejaculation, I expreſt my ſelf. Wherefore, and becauſe it containeth what was ſeen in the cauſes thereof now accompliſhed, and amongſt the reſt, the honour of this day; I have made this which had not confidence to look the Sun before in the face, my <hi>mite;</hi> Howſoever too familiar for this time, and even below what I think my preſent.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:110354:4"/>
+            <head>THE EXCLAMES OF RHODOPE.</head>
+            <lg>
+               <l>DIapered <hi>Rhodope</hi> with flowrs and gods,</l>
+               <l>Is blaſted now, blown, flow'n from their aboads.</l>
+               <l>The mountains Angeline, her Roſes fall,</l>
+               <l>Fair <hi>Rhodopaea</hi> weeps: and moſt of all,</l>
+               <l>The guardian Genius of the Kingdoms, at</l>
+               <l>The horror thereof ſhrinks: God juſt and great</l>
+               <l>Leaves man unto himſelf: Man doth what none</l>
+               <l>Dare ſpeak of now: nor ever world ſaw done,</l>
+               <l>Which after age will, to th'eternal fame,</l>
+               <l>Of him who's dead; and the wide worlds great ſhame,</l>
+               <l>Who kill'd him for the fault, for which no man</l>
+               <l>Did ever yet die, ſince the world began.</l>
+            </lg>
+            <lg>
+               <l>That heavenly piece of Empyraeum, out</l>
+               <l>Of the ſupremſt of all the heavens cut:</l>
+               <l>Inſpired with a ſoul, appearing through</l>
+               <l>His more material tralucence, with no</l>
+               <pb n="4" facs="tcp:110354:5"/>
+               <l>Leſſe then what is above man, Great <hi>Montroſe,</hi>
+               </l>
+               <l>Who to be loyal before greatneſſe choſe.</l>
+               <l>And when our expeditious horſes did,</l>
+               <l>Beyond a Subjects common mark proceed:</l>
+               <l>And on the borders of Soveragnity,</l>
+               <l>Took unto them too wide a liberty;</l>
+               <l>He in his circle, at his own poaſt ſtay'd,</l>
+               <l>And what is come to paſſe out on us cry'd</l>
+               <l>When we, what was <hi>the good gift of God,</hi> thought</l>
+               <l>The Covenant within our Kingdom brought;</l>
+               <l>And did our walls threatning the clouds divide,</l>
+               <l>And gates capaceous to it opened wide,</l>
+               <l>Which hath ſo many armed men let out,</l>
+               <l>Whom by our wiſdom we did make ſo ſtout.</l>
+               <l>Who with a high born hand undid the King</l>
+               <l>And did on fire it ſelf ſet, and will bring</l>
+               <l>Our State and Church into confuſion and</l>
+               <l>Threatneth with ruine to ſubdue our Land:</l>
+               <l>He, when the fatall ropes thereof we drew</l>
+               <l>Exclaim'd no credit to the horſe give you.</l>
+               <l>But as Divine ſhe who the overthrow</l>
+               <l>Of her own Countrey did to it forſhow,</l>
+               <l>And was not heeded till all was undone,</l>
+               <l>And all the Towers of <hi>Troy</hi> were overthrown:</l>
+               <l>When they would gladly have prevented what</l>
+               <l>They elſe might done to have preſerv'd their State,</l>
+               <l>So this great Man in the own cauſes ey'd</l>
+               <l>Th'event of what we have found true and try'd;</l>
+               <l>What reaſon and what oppoſition could</l>
+               <l>Do, to prevent what he to us foretold,</l>
+               <pb n="5" facs="tcp:110354:5"/>
+               <l>And warn'd us of our enemies falſhood, and</l>
+               <l>The ruine of the King and of the Land</l>
+               <l>By thoſe with whom we were ſo far combin'd</l>
+               <l>In action, one, much probable in mind;</l>
+               <l>And to the cauſe did ſet a breſt of Braſſe</l>
+               <l>To the prevention of what's come to paſſe.</l>
+               <l>And when we ſaw, that if we had done ſo,</l>
+               <l>We had far leſſe then now we have to do.</l>
+               <l>And even were glad the cauſe to take in hand</l>
+               <l>Which he by word and deed had ſo maintain'd.</l>
+               <l>The abſtract and the looking-glaſſe wherein</l>
+               <l>Antiquities Nobility did ſhine</l>
+               <l>In maintenance of no <hi>Idaea</hi> as</l>
+               <l>Others have done and let the ſubſtance paſſe,</l>
+               <l>Did by his valour win the Kingdom, and</l>
+               <l>Before him did acquiet the whole Land,</l>
+               <l>And did the willing Subject in head bring</l>
+               <l>Of juſt obedience to their native King.</l>
+               <l>For all which he had ſaid or done, or we</l>
+               <l>By black experience had ſo found to be,</l>
+               <l>Without reſpect to God or man, or King,</l>
+               <l>Or what our ſelves might on our ſelves thus bring,</l>
+               <l>By paving way to others to be trode,</l>
+               <l>In a reſpectleſneſſe to Noble Blood,</l>
+               <l>To be hang'd for their faults another day</l>
+               <l>When Juſtice happily again might ſway.</l>
+               <l>We did condemn him without hearing, nor</l>
+               <l>Suffered his innocence, in his cauſe, more</l>
+               <l>Or leſſe to ſpeak, but haled him at length,</l>
+               <l>Where after triumph he dyed in full ſtrength;</l>
+               <pb n="6" facs="tcp:110354:6"/>
+               <l>And with him many a guiltleſſe and poor ſoul</l>
+               <l>Were partly kill'd, and partly put in roll</l>
+               <l>With that black letter, which ore they did breath</l>
+               <l>The wholſome air, ſeal'd, which they dy'd, their death,</l>
+               <l>And as when full, with all her Stars the Moon</l>
+               <l>At riſing of the Sun doth then go down:</l>
+               <l>So when the King much like a <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>it Bridegroom</l>
+               <l>Or ſtrong man like to run his race, did from</l>
+               <l>His Tabernacle or Chalmber come, <hi>Montroſe</hi>
+               </l>
+               <l>And all his Stars did ſet, and mongſt all thoſe</l>
+               <l>
+                  <hi>Drummond</hi> and <hi>Dalgetie</hi> did come in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eer</l>
+               <l>Like morning ones, and laſt did diſappear.</l>
+               <l>This was the end of this great Man whoſe breath</l>
+               <l>His noſtrils held; content nor with his death,</l>
+               <l>Nor with the manner: But to let men ſee</l>
+               <l>By his example what Nobilitie</l>
+               <l>Reſpect hath to plead for, when this ſtrange ſhaene</l>
+               <l>May turn'd about be to our play again.</l>
+               <l>We with the wicked gave him not a grave,</l>
+               <l>Nor it allow'd his quartered Corps to have;</l>
+               <l>And further did, then I my tongue will let</l>
+               <l>Therein imbrued be, with the telling it.</l>
+               <l>Which was not thy misfortune man, great ſoul'd</l>
+               <l>Which brought thee to what unheard rigour could</l>
+               <l>Commence on wickedneſſe, nor in thee fault,</l>
+               <l>Which thee above thy ſelf did ſo exalt:</l>
+               <l>But it was God who did it to his Glory</l>
+               <l>Which will be ſeen in end of thy deaths ſtory,</l>
+               <l>When the avengers of thy blood ſhall come,</l>
+               <l>When there ſhall not a City be to run</l>
+               <pb n="7" facs="tcp:110354:6"/>
+               <l>For refuge to; or for all thoſe who hath</l>
+               <l>Been brought before to an untimely death,</l>
+               <l>By ſuch a violence unheard before,</l>
+               <l>Sometimes in Battell without Quarter, or</l>
+               <l>By Law, againſt the Law, which for my part</l>
+               <l>I ever thought me bound to in my heart</l>
+               <l>And ſwore to have maintain'd; And many one,</l>
+               <l>Who in the quarrel have their lives laid down,</l>
+               <l>The leaſt part of us all, from <hi>Stuart,</hi> who</l>
+               <l>Was firſt, to <hi>Drummond</hi> laſt, which well known two</l>
+               <l>Did cloſe the bedroll ends, which did contain</l>
+               <l>So many of us all, as have been ſlain</l>
+               <l>And 'mongſt the reſt, Thou great Duke <hi>Hamiltoun,</hi>
+               </l>
+               <l>Although thy blood did not our ſtreets run down,</l>
+               <l>Thy death was e're thou dy'd, applauſed by</l>
+               <l>A volley of our great'ſt Artaillery;</l>
+               <l>In thy great Armies fatall overthrow,</l>
+               <l>Which we undid, and Victor made our foe,</l>
+               <l>Unto whoſe triumphes we his Trophees made,</l>
+               <l>And in his honour ſet out all we had,</l>
+               <l>Glory and ſtrength; and to our ſtrong Holds brought</l>
+               <l>The Enemie who ſhame and loſſe had wrought;</l>
+               <l>That arch of Traitors who it ſeconded</l>
+               <l>By doing after of a far worſe deed,</l>
+               <l>In putting in the Lords Anointed hand</l>
+               <l>Whom we, though not ſworn ought to have maintaind,</l>
+               <l>The world but one eye had, and he it quit</l>
+               <l>put out, and dim'd both us and him in it.</l>
+               <l>No King proteſtant was more upon earth</l>
+               <l>To whom he ſuffered not air to give breath,</l>
+               <pb n="8" facs="tcp:110354:7"/>
+               <l>And as we had been emulous, a little,</l>
+               <l>After the great breaking of that but britle</l>
+               <l>Veſſell, which glorious his ſoul held, which ſhall</l>
+               <l>Shine, to give light, to their deſtruction all,</l>
+               <l>Who either to the Altar bound or cut</l>
+               <l>So innocent a ſacrifices throat.</l>
+               <l>To the attonement whereof if Arte</l>
+               <l>Might make imperchment where there is no part,</l>
+               <l>Old <hi>Huntley's</hi> blood was ſhed, who yet did never</l>
+               <l>Much evil, and was forced to deliver</l>
+               <l>His ſoul up, on the paſſion eve to be</l>
+               <l>A ſprinkling our door poſts upon, when the</l>
+               <l>Deſtroying Angel of God ſhall paſſeover,</l>
+               <l>Judgement to execute on whoſoever,</l>
+               <l>Hath broke the oath of God, or out have ſtood</l>
+               <l>In th'evil matter of the Royal Blood:</l>
+               <l>Or the Arch-traitor come back to revew</l>
+               <l>What needleſly our follies our foe ſhew</l>
+               <l>(Which never yet was fortunate) who may</l>
+               <l>Be maſter of the ſame and bear away</l>
+               <l>What he before had ſeen, when God may let</l>
+               <l>Us ſee, he hath no, bleſſing given to it.</l>
+               <l>Theſe <hi>Agnu's Deis</hi> are on the fatal threed,</l>
+               <l>Whereon the number of our ſtain are thred.</l>
+               <l>Which the whole world hath taken, and a chain</l>
+               <l>Thereof made it about our necks to hang,</l>
+               <l>Whereon theſe Noble two Peers do make up</l>
+               <l>A carbuncle on either ſhoulders top.</l>
+               <l>And thou <hi>Montroſe,</hi> who more then all the reſt</l>
+               <l>Didſtſt for thy Maſter, ſhineſt in the breaſt,</l>
+               <pb n="9" facs="tcp:110354:7"/>
+               <l>Whereat the Tablet hangs which of all there</l>
+               <l>The <hi>Phaenix</hi> Jewel is, nor other where,</l>
+               <l>Wherein is Printed the eternal face,</l>
+               <l>Fluſhing his Royal Innocence and Grace.</l>
+               <l>We killed Thee, the day when we our King</l>
+               <l>Did in our <hi>Iſrael</hi> receive to reign,</l>
+               <l>For fighting for thy Soveraign, when he fled</l>
+               <l>O're <hi>Jordan,</hi> where his Sacred Blood was ſhed.</l>
+               <l>And ere the Red bluſht on the White and ſpread</l>
+               <l>The Roſe were cropped, and the tree was ſued.</l>
+               <l>And his kind friends only themſelves content,</l>
+               <l>On th'oderiferous ſweetneſſe of his ſent.</l>
+               <l>Which when cold North did on his Garden blow,</l>
+               <l>Did from the perfumes of his Spices flow,</l>
+               <l>Into the Air innobling ſo him by</l>
+               <l>The Incenſe of a laſting memory:</l>
+               <l>When we who now joy, may as ſore lament</l>
+               <l>When time ſhall make a late time to repent:</l>
+               <l>Let us that miſtake colour as we will</l>
+               <l>No colour will be to put on that ill,</l>
+               <l>And as the world hath now ſeen one, will ſee</l>
+               <l>Another as ſad a cataſtropee.</l>
+            </lg>
+            <lg>
+               <l>The Lord of all things had before decreed,</l>
+               <l>The time he lived, and the time he died,</l>
+               <l>Which being now come to a period, he</l>
+               <l>Gave him into our hands, this death to die,</l>
+               <l>That our cup thereby being better fill'd,</l>
+               <l>All of us might, who ſhould be killed, kill'd.</l>
+               <l>And inexcuſable made that God may</l>
+               <l>Be juſt when he condemneth us, and they</l>
+               <pb n="10" facs="tcp:110354:8"/>
+               <l>The Crown gain of their labour: 'Gainſt what hath</l>
+               <l>Been ſeal'd, it ſeems, with ſignet of Gods wrath.</l>
+               <l>Whereto example nor command had yet,</l>
+               <l>World nor reproof for not doing that great</l>
+               <l>Work, which hath ſuch confuſion State brought on,</l>
+               <l>And Church, that from the Beggar to the Throne</l>
+               <l>An univerſal ſuffering hath been, and</l>
+               <l>With guiltleſſe crying blood is fill'd the Land:</l>
+               <l>Murther'd is King, State, and Religion loſt,</l>
+               <l>And what we thought to have maintained moſt,</l>
+               <l>And what we ſurelieſt thought to ſtand and ſwore,</l>
+               <l>In ſuch a manner never done before.</l>
+               <l>However, God did bring him to his end,</l>
+               <l>Who moſt the Kingly Intereſt did defend:</l>
+               <l>That debt of death ſince he was once to pay,</l>
+               <l>Though circumſtances odious make the way,</l>
+               <l>He but Gods buſineſſe joyn'd to his own</l>
+               <l>As't in his way lay, who them both hath done.</l>
+               <l>His ſoul the world but left, and now is gone</l>
+               <l>Unto the heavenly Manſions tendered one:</l>
+               <l>The wings of Angels, or convey'd did fly,</l>
+               <l>Looſ'd from the carnal fetters of her clay,</l>
+               <l>In twinckling of an eye, as all before</l>
+               <l>Him, ſo the Saints did paſſe into their glore,</l>
+               <l>And his Great Maſter, when upon the brink,</l>
+               <l>His Sacred Head bow'd down to take a drink,</l>
+               <l>Of the fair River of Eternity,</l>
+               <l>He was devour'd of immortality,</l>
+               <l>So, in a moment, what no charitie</l>
+               <l>Can otherwiſe judge, hath he pearcht ſo high.</l>
+               <pb n="11" facs="tcp:110354:8"/>
+               <l>'Tis true, he's thought a murtherer by the State,</l>
+               <l>And by the Church is Excommunicate,</l>
+               <l>And who are bound or looſed here below,</l>
+               <l>Are bound in heaven and looſed are alſo</l>
+               <l>Which either groundleſſe makes our charity,</l>
+               <l>Or what in both I would be loath to ſay:</l>
+               <l>Yet if what Church or State have done agree,</l>
+               <l>With what example or command can be</l>
+               <l>In Word of God, then all is true is done,</l>
+               <l>And in the end the event will it crown.</l>
+               <l>We Reformation did intend, but mean</l>
+               <l>Took thereto, which, if God did it ordain,</l>
+               <l>It doth tranſcend the model of what either,</l>
+               <l>Nature or he beſtow'd upon me ever:</l>
+               <l>Nor for Religion or ſecuritie,</l>
+               <l>Did world hear like, or will it juſtifie.</l>
+            </lg>
+            <lg>
+               <l>But thou who ſhutteſt, and canſt open, and</l>
+               <l>The key of that clos'd Cabin haſt in hand;</l>
+               <l>Wherein, if ſubtilties be lockt, which fret</l>
+               <l>The cloak will, which hath palliate our State.</l>
+               <l>Once open thou, and that Gold button ſtring</l>
+               <l>Cut, wherewith we the cloak about us hing,</l>
+               <l>And let it fall, and all the myſteries</l>
+               <l>Of State diſcover, and iniquities</l>
+               <l>If any be: Or if it be miſtake</l>
+               <l>Or prejudice which us beyond us take,</l>
+               <l>Or led by any zeal to do more then</l>
+               <l>God for himſelf did ever us ordain.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Edinburrow</hi> where thoſe have been kill'd,</l>
+               <l>Who's Carcaſſes have all thy ditches fill'd,</l>
+               <pb n="12" facs="tcp:110354:9"/>
+               <l>And where thoſe never matched Counſel ſate,</l>
+               <l>Which have in ſuch a model caſt our ſtate:</l>
+               <l>The Sun which hath thoſe blind works ſeen, which none</l>
+               <l>Elſe have, but what unto themſelves are known,</l>
+               <l>May ſee the ſhaene chang'd, which diſcover ſhall</l>
+               <l>The myſtery wherein infolded all.</l>
+               <l>The pack of theſe breſt buſineſſes are</l>
+               <l>Which hath deſtruction made, boodſhed and War,</l>
+               <l>And either ſhall ſee looſ'd that Gordian knot,</l>
+               <l>Or bundle of our great'ſt miſtakes ſee cut,</l>
+               <l>Or our eyes opened, that the wonders we</l>
+               <l>May of thy Law ſee, when all thoſe ſhall be</l>
+               <l>Who ſhould be killed; kill'd; and time about</l>
+               <l>Be puniſht for the fault we never thought.</l>
+            </lg>
+            <lg>
+               <l>O Thou who dwelleſt in the extreames of light,</l>
+               <l>And ends inhabiteſt of infinit,</l>
+               <l>To which is no acceſſe, nor eye of man</l>
+               <l>Did ever penitrat, nor enter can</l>
+               <l>The ſecret thereof, wit: O Thou who haſt</l>
+               <l>All things of nothing made, and even them caſt</l>
+               <l>In mould of excellence; and each in it</l>
+               <l>Kind dutifull made, and the world hath ſet</l>
+               <l>In heart of man, who yet the work cannot</l>
+               <l>From the beginning wrought by thee find out:</l>
+               <l>Grant me humility; and to ſuſpend</l>
+               <l>My judgement, till I ſee in things an end.</l>
+               <l>But mean while give me leave thus much to ſay,</l>
+               <l>I ſearch have made, and only this found I,</l>
+               <l>That God hath made men upright, but they have</l>
+               <l>Many inventions ſought which them deprave.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:110354:9"/>
+            <head>To the moſt Honoured Exequies of the Great and Bleſſed <hi>MONTROSE.</hi>
+            </head>
+            <lg>
+               <l>THat Heavenly piece of <hi>Empyraeum,</hi> out</l>
+               <l>Of the ſupream'ſt of all heavenly, cut;</l>
+               <l>Inſpired with a ſoul, appearing throw</l>
+               <l>His more material tralucence, with no</l>
+               <l>Leſse then what is above man; Great <hi>Montroſe,</hi>
+               </l>
+               <l>Who to be Loyal before greatneſſe choſe;</l>
+               <l>When by mans wiſdom, without Gods, the King,</l>
+               <l>Church, State had murdered, darkned, ruin'd been,</l>
+               <l>He through blood waded, with a breſt of Braſſe</l>
+               <l>To the prevention of what's come to paſſe,</l>
+               <l>And when he had done all, he up at laſt,</l>
+               <l>In the flame, which had him ſtill burned paſt:</l>
+            </lg>
+            <lg>
+               <l>Where he above is Angell'd, and below</l>
+               <l>To their ſhame's honoured, who repent it now.</l>
+            </lg>
+            <byline>J. M. O.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
